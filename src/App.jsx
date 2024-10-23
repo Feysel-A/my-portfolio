@@ -45,7 +45,7 @@ function App() {
 			<div className='drawer-content flex flex-col'>
 				{/* Navbar */}
 				<div className='navbar bg-white dark:bg-[#001E3E] h-16 sticky top-0 z-50 md:px-12 shadow-sm'>
-					<div className='flex-1 px-2 mx-2 font-bold text-3xl'>Gour</div>
+					<div className='flex-1 px-2 mx-2 font-bold text-3xl'>Feysel</div>
 					<span className='md:hidden'>
 						<ThemeSwitcher />
 					</span>
