@@ -32,11 +32,6 @@ function App() {
 					Projects
 				</a>
 			</li>
-			<li>
-				<a onClick={() => setIsNavOpen(false)} href='#contact'>
-					Contact
-				</a>
-			</li>
 		</>
 	);
 	return (
@@ -83,7 +78,7 @@ function App() {
 					<About />
 					<Skills />
 					<Projects />
-					<Contact />
+					{/* <Contact /> */}
 				</div>
 				<Footer />
 			</div>

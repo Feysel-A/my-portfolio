@@ -17,17 +17,12 @@ const About = () => {
       <div className="relative">
         <SectionTitle title="about me" />
         <p className="text-justify" data-aos="zoom-in" data-aos-delay="300">
-          Hello, and welcome to my portfolio website! I'm Feysel Ansar, a
-          passionate full stack developer focused on crafting dynamic,
-          user-friendly web experiences. With a solid foundation in HTML, CSS,
-          JavaScript, and a growing expertise in modern frameworks, I turn
-          creative ideas into reality through clean and efficient code. I'm
-          always expanding my skills and staying current with industry trends to
-          build responsive and modern websites. I enjoy working collaboratively
-          with clients and teams to bring their vision to life. My mission is to
-          contribute to projects that have a positive impact. Explore my work,
-          and let's create something amazing together!
-        </p>
+          Hello, I’m Feysel Ansar – a dedicated Full Stack Developer passionate about building dynamic, user-friendly web applications. With a solid foundation in HTML, CSS, and JavaScript, and experience in frameworks like React on the frontend and Node.js on the backend, I bring ideas to life through clean, efficient code.
+
+          I continuously expand my skills across the full stack, staying current with industry trends to create responsive, robust applications. I thrive in collaborative environments, working closely with clients and teams to turn their vision into reality. My mission is to contribute to impactful projects that blend great design with seamless functionality.
+          
+          Explore my work, and let’s build something incredible together!
+                  </p>
       </div>
     </div>
   );
